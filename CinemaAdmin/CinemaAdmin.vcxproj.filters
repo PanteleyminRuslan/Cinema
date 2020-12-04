@@ -48,4 +48,24 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Hall1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="..\Hall2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="..\Hall3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="..\Hall4.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="..\Hall5.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="..\TimeTable.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

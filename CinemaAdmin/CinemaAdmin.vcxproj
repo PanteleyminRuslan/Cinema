@@ -152,6 +152,14 @@
     <ClInclude Include="Seat.h" />
     <ClInclude Include="TicketOffice.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Hall1.txt" />
+    <Text Include="..\Hall2.txt" />
+    <Text Include="..\Hall3.txt" />
+    <Text Include="..\Hall4.txt" />
+    <Text Include="..\Hall5.txt" />
+    <Text Include="..\TimeTable.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
