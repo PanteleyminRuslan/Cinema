@@ -1,6 +1,8 @@
-﻿#include <iostream>
+﻿#include "TicketOffice.h"
+#include <iostream>
+int main() {
+    TicketOffice office;
+    office.open();
 
-int main()
-{
-    std::cout << "Hello World!\n";
+    return 0;
 }
