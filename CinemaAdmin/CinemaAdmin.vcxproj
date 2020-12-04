@@ -140,6 +140,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CinemaAdmin.cpp" />
+    <ClCompile Include="Hall.cpp" />
+    <ClCompile Include="Movie.cpp" />
+    <ClCompile Include="Schedule.cpp" />
+    <ClCompile Include="TicketOffice.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hall.h" />
+    <ClInclude Include="Schedule.h" />
+    <ClInclude Include="Movie.h" />
+    <ClInclude Include="Seat.h" />
+    <ClInclude Include="TicketOffice.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
